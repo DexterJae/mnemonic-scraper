@@ -1,0 +1,53 @@
+[
+    {
+        "name1": "Chlorine",
+        "symbol_mobile": "Cl",
+        "p1": "Chlorine is illustrated by a swimming pool and a giant Claw (Cl).",
+        "red_content": {
+            "red1": "Cl"
+        },
+        "img1_src": "https://mammothmemory.net/images/user/base/Chemistry/4. Periodic Table/2.4.33 Chlorine memory aid.jpg"
+    },
+    {
+        "name1": "Speed",
+        "p1": "Speed is what we use to measure how fast something is moving. Speed is calculated using the formula below:",
+        "p2": "Speed cameras get dirty (distance) over time.",
+        "red_content": {
+            "red1": "Speed",
+            "red2": "g",
+            "red3": "d",
+            "red4": "over time"
+        },
+        "img1_src": "https://mammothmemory.net/images/user/base/Physics/Physics Formula/speed-is-distance-over-time-speed=dt-01.7f078c5.jpg",
+        "img2_src": "https://mammothmemory.net/images/user/base/Physics/Physics Formula/speed-formula-mnemonic-02--physics-formulas.abe445d.jpg"
+    },
+    {
+        "name1": "Electrons",
+        "p1": "Electrons (electronic robots) are negatively charged.",
+        "red_content": {
+            "red1": "Electrons",
+            "red2": "electronic robots"
+        },
+        "img1_src": "https://mammothmemory.net/images/user/base/Chemistry/2. Atomic Structure/2.2.2-electron-image-(new).4b7e365.jpg",
+        "p2": "The electronic robots (electrons) are negative and have a negative charge."
+    },
+    {
+        "name1": "Force",
+        "name2": "Force is measured in N (Newtons)",
+        "p1": "Force must be applied to an object to alter its speed or change its direction of movement. Force is calculated using the formula below:",
+        "p2": "Force the mammoth (mass) away (acceleration).",
+        "p3": "Force the mammoth (mass) away (acceleration) but she just lifted me up by the nose (Newton).",
+        "red_content": {
+            "red1": "Force",
+            "red2": "ma",
+            "red3": "a",
+            "red4": "Force",
+            "red5": "m",
+            "red6": "a",
+            "red7": "n"
+        },
+        "img1_src": "https://mammothmemory.net/images/user/base/Physics/Physics Formula/force-formula-force-01.6d178d1.jpg",
+        "img2_src": "https://mammothmemory.net/images/user/base/Physics/Physics Formula/force-memory-aid-04physics-formulas-.44d1db5.jpg",
+        "img3_src": "https://mammothmemory.net/images/user/base/Physics/Physics Formula/newton-memory-aid-05-physics-formulas-.d1133c2.jpg"
+    }
+]
