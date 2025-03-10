@@ -80,4 +80,4 @@ The scraper currently extracts mnemonics from the following pages:
 
 ## 👨‍💻 Author
 
-This project was developed by **[Hyunwoo Jae]**.
+This project was developed by **Hyunwoo Jae**.
